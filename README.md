@@ -10,9 +10,9 @@ Program to design a half adder and full adder circuit and verify its truth table
 
 using Verilog programming.
 
-Developed by: Senthamil Selvan
+Developed by: THANJIYAPPAN.K
 
-registerNumber: 212222230139
+registerNumber: 212222240108
 ```
 ```
 
